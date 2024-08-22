@@ -1,0 +1,29 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "optional": "cpp",
+    "istream": "cpp",
+    "ostream": "cpp",
+    "ratio": "cpp",
+    "system_error": "cpp",
+    "array": "cpp",
+    "functional": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp",
+    "dev_config.h": "c",
+    "epd_2in13.h": "c",
+    "epd_test.h": "c",
+    "spi_master.h": "c",
+    "freertos.h": "c",
+    "stdlib.h": "c",
+    "imagedata.h": "c",
+    "epd_3in0g.h": "c"
+  },
+  "idf.adapterTargetName": "esp32s3",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.portWin": "COM9",
+  "idf.flashType": "UART"
+}
